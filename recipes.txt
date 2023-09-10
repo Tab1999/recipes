@@ -3,3 +3,5 @@ welcome to recipies
 kheer 
 pasta
 
+pizza 
+burger
